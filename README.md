@@ -1,6 +1,5 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/mishad211/](https://www.linkedin.com/in/mishad211/)
 
-- ⚡ Fun fact **<replace>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
