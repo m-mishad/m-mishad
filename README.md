@@ -2,7 +2,7 @@
 
 
 -  Know about my experiences [https://www.linkedin.com/in/mishad211/](https://www.linkedin.com/in/mishad211/)
--  Know my certification profile: [https://www.credly.com/users/md-muzahedul-haque/badges] (https://www.credly.com/users/md-muzahedul-haque/badges)
+-  Know my certification profile: [https://www.credly.com/users/md-muzahedul-haque/badges](https://www.credly.com/users/md-muzahedul-haque/badges)
 
 
 <h3 align="left">Connect with me:</h3>
