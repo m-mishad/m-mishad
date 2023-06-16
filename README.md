@@ -32,7 +32,8 @@
 
 
 
-[<img src="Badges/redhat/red-hat-certified-specialist-in-containers-and-kubernetes.png" alt="c" width="100" height="100">](<https://www.credly.com/badges/48326d30-478b-429b-842e-e1d886f9a5ba/public_url>) [<img src="Badges/redhat/red-hat-certified-specialist-in-gluster-storage-administration.png" alt="c" width="100" height="100">](<https://www.credly.com/badges/1053cc84-0663-4a07-90b7-b6a2bbb3476e/public_url>) [<img src="Badges/redhat/red-hat-certified-specialist-in-high-availability-clustering.png" alt="c" width="100" height="100">](<https://www.credly.com/badges/cc23bad0-f408-46b7-a133-75e8d9b840ce/public_url>) 
+[<img src="Badges/redhat/red-hat-certified-specialist-in-containers-and-kubernetes.png" alt="c" width="100" height="100">](<https://www.credly.com/badges/48326d30-478b-429b-842e-e1d886f9a5ba/public_url>) [<img src="Badges/redhat/red-hat-certified-specialist-in-gluster-storage-administration.png" alt="c" width="100" height="100">](<https://www.credly.com/badges/1053cc84-0663-4a07-90b7-b6a2bbb3476e/public_url>) [<img src="Badges/redhat/red-hat-certified-specialist-in-high-availability-clustering.png" alt="c" width="100" height="100">](<https://www.credly.com/badges/cc23bad0-f408-46b7-a133-75e8d9b840ce/public_url>) [<img src="Badges/redhat/red-hat-certified-specialist-in-cloud-infrastructure.png" alt="c" width="100" height="100">](<https://www.credly.com/badges/872e74c4-9894-43d8-a87c-58e406c5d5ea/public_url>) 
+
 
 
 
