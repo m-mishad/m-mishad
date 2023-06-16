@@ -29,7 +29,7 @@
 
 <div align="center">
 
-#### [Badges:](https://www.credly.com/users/md-muzahedul-haque/badges)
+## [Badges](https://www.credly.com/users/md-muzahedul-haque/badges)
 
 </div>
  
