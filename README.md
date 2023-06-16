@@ -7,6 +7,8 @@
 
 
 
+[<img src="Badges/Kubernetes/cka-certified-kubernetes-administrator.png" alt="c" width="80" height="80">](<https://www.credly.com/badges/66714d76-9fbd-4eac-b6d6-f514e87e4387/public_url>)
+
 
 
 
