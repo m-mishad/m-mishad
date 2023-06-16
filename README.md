@@ -1,4 +1,4 @@
-# Muzahedul Haque's Profile: 
+# [Muzahedul Haque's Profile:](https://github.com/m-mishad/m-mishad/blob/main/README.md)
 
 #### IT & cloud computing professional with more than ten years of experience. Expert in platform planning & deployment, cloud computing, telecommunication signaling trace analysis, cybersecurity, etc.
 
