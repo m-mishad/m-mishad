@@ -1,5 +1,4 @@
 # Muzahedul Haque's Profile ###
-
 #### IT & cloud computing professional with more than ten years of experience. Expert in platform planning & deployment, cloud computing, telecommunication signaling trace analysis, cybersecurity, etc.
 
 
