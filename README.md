@@ -5,7 +5,7 @@
 - AWS
 
 
-[<img src="https://img.shields.io/badge/LABEL-MESSAGE-COLOR.svg?logo=LOGO">](<LINK>)
+[<img src="https://www.credly.com/badges/c0cbb2b4-4bc2-4570-9819-1828c4b09909/public_url">](<LINK>)
 
 
 
