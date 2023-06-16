@@ -63,10 +63,6 @@
 
 ---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-mishad&show_icons=true&locale=en&layout=compact" alt="m-mishad" width="140" height="160" /></p>
-
----
-
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCp1weR6ZnOXGAH-EoLvnuHA?style=social) 
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCp1weR6ZnOXGAH-EoLvnuHA?style=social)
 
