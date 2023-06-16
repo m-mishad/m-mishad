@@ -11,6 +11,11 @@
 - [LinkedIn](https://www.linkedin.com/in/mishad211/)
 
 
+#### Badges
+
+
+
+
 
 
 <h3 align="left">Technical Skills:</h3>
