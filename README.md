@@ -61,6 +61,14 @@
 <a href="https://www.leetcode.com/<replace>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="<replace>" height="30" width="40" /></a>
 </p>
 
+
+<a href="https://www.linkedin.com/in/mishad211">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" alt="LinkedIn Profile Badge" />
+</a>
+
+
+
+
 ---
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCp1weR6ZnOXGAH-EoLvnuHA?style=social) 
