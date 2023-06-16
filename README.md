@@ -1,12 +1,13 @@
-
+<div align="center">
 # [Muzahedul Haque's Profile](https://github.com/m-mishad)
+ </div>
 ---
 #### IT & cloud computing professional with more than ten years of experience. Expert in platform planning & deployment, cloud computing, telecommunication signaling trace analysis, cybersecurity, etc.
 
 ---
 <div align="center">
   
-## [Technical Skills:](https://github.com/m-mishad)
+## [Technical Skills](https://github.com/m-mishad)
  
 </div>
 
