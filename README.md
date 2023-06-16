@@ -7,7 +7,7 @@
 
 
 
-[<img src="Badges/Kubernetes/cka-certified-kubernetes-administrator.png" alt="c" width="100" height="100">](<https://www.credly.com/badges/66714d76-9fbd-4eac-b6d6-f514e87e4387/public_url>) [<img src="Badges/Kubernetes/cka-certified-kubernetes-administrator.png" alt="c" width="100" height="100">](<https://www.credly.com/badges/66714d76-9fbd-4eac-b6d6-f514e87e4387/public_url>)
+[<img src="Badges/Kubernetes/cka-certified-kubernetes-administrator.png" alt="c" width="100" height="100">](<https://www.credly.com/badges/66714d76-9fbd-4eac-b6d6-f514e87e4387/public_url>) [<img src="Badges/Kubernetes/cka-certified-kubernetes-administrator.png" alt="c" width="100" height="100">](<https://www.credly.com/badges/250ebc97-36ba-42f5-bea1-2544df4fa424/public_url>)
 
 
 
