@@ -43,10 +43,7 @@
 
 [<img src="Badges/redhat/red-hat-certified-specialist-in-containers-and-kubernetes.png" alt="c" width="100" height="100">](<https://www.credly.com/badges/48326d30-478b-429b-842e-e1d886f9a5ba/public_url>) [<img src="Badges/redhat/red-hat-certified-specialist-in-gluster-storage-administration.png" alt="c" width="100" height="100">](<https://www.credly.com/badges/1053cc84-0663-4a07-90b7-b6a2bbb3476e/public_url>) [<img src="Badges/redhat/red-hat-certified-specialist-in-high-availability-clustering.png" alt="c" width="100" height="100">](<https://www.credly.com/badges/cc23bad0-f408-46b7-a133-75e8d9b840ce/public_url>) 
 
-
-
 ---
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -57,17 +54,9 @@
 
 ---
 
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-mishad&show_icons=true&locale=en&layout=compact" alt="m-mishad" width="140" height="160" /></p>
 
 ---
-
-
-
-
-
-
-
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCp1weR6ZnOXGAH-EoLvnuHA?style=social) 
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCp1weR6ZnOXGAH-EoLvnuHA?style=social)
