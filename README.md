@@ -1,7 +1,7 @@
 <div align="center">
  
 # [Muzahedul Haque's Profile](https://github.com/m-mishad)
- 
+![](https://komarev.com/ghpvc/?username=m-mishad&color=green)
 </div>
  
 
