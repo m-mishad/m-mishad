@@ -5,7 +5,7 @@
 - AWS
 
 
-[<img src="https://www.credly.com/badges/c0cbb2b4-4bc2-4570-9819-1828c4b09909/public_url">](<https://www.credly.com/badges/c0cbb2b4-4bc2-4570-9819-1828c4b09909/public_url>)
+[<img src="Badges/AWS/aws-certified-cloud-practitioner.png">](<https://www.credly.com/badges/c0cbb2b4-4bc2-4570-9819-1828c4b09909/public_url>)
 
 
 
