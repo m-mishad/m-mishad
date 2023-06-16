@@ -9,6 +9,11 @@
 
 [<img src="Badges/Kubernetes/cka-certified-kubernetes-administrator.png" alt="c" width="100" height="100">](<https://www.credly.com/badges/66714d76-9fbd-4eac-b6d6-f514e87e4387/public_url>) [<img src="Badges/Kubernetes/cka-certified-kubernetes-administrator.png" alt="c" width="100" height="100">](<https://www.credly.com/badges/250ebc97-36ba-42f5-bea1-2544df4fa424/public_url>) 
 
+[<img src="Badges/redhat/red-hat-certified-architect-rhca.png" alt="c" width="100" height="100">](<https://www.credly.com/badges/728e5b27-91a1-46b1-8e96-e1e63c1146c4/public_url>)
+
+
+
+
 [<img src="Badges/redhat/red-hat-certified-specialist-in-containers.png" alt="c" width="120" height="120">](<https://www.credly.com/badges/d987cb53-05fa-4c1b-ad86-c61b71cc2232/public_url>) [<img src="Badges/redhat/red-hat-certified-openshift-administrator.png" alt="c" width="120" height="120">](<https://www.credly.com/badges/e1ce46b1-e476-4299-8b46-831d7b86682a/public_url>) 
 
 [<img src="Badges/redhat/red-hat-certified-specialist-in-containers-and-kubernetes.png" alt="c" width="100" height="100">](<https://www.credly.com/badges/48326d30-478b-429b-842e-e1d886f9a5ba/public_url>) [<img src="Badges/redhat/red-hat-certified-specialist-in-gluster-storage-administration.png" alt="c" width="100" height="100">](<https://www.credly.com/badges/1053cc84-0663-4a07-90b7-b6a2bbb3476e/public_url>) [<img src="Badges/redhat/red-hat-certified-specialist-in-high-availability-clustering.png" alt="c" width="100" height="100">](<https://www.credly.com/badges/cc23bad0-f408-46b7-a133-75e8d9b840ce/public_url>)
