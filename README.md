@@ -23,9 +23,10 @@
 
 [<img src="Badges/Kubernetes/cka-certified-kubernetes-administrator.png" alt="c" width="100" height="100">](<https://www.credly.com/badges/66714d76-9fbd-4eac-b6d6-f514e87e4387/public_url>) [<img src="Badges/Kubernetes/cka-certified-kubernetes-administrator.png" alt="c" width="100" height="100">](<https://www.credly.com/badges/250ebc97-36ba-42f5-bea1-2544df4fa424/public_url>) 
 
+[<img src="Badges/HashiCorp/hashicorp-certified-terraform-associate-002.png" alt="c" width="100" height="100">](<https://www.credly.com/badges/41c7f681-4129-4da3-ad27-d65ec4dedfb9/public_url>) [<img src="Badges/HashiCorp/terraform-certified-hashicorp-implementation-partner-chip.png" alt="c" width="100" height="100">](<https://www.credly.com/badges/0dbc30ea-d239-4e04-a380-e37536613b79/public_url>) 
+
+
 [<img src="Badges/redhat/red-hat-certified-architect-rhca.png" alt="c" width="100" height="100">](<https://www.credly.com/badges/728e5b27-91a1-46b1-8e96-e1e63c1146c4/public_url>) [<img src="Badges/redhat/red-hat-certified-system-administrator-rhcsa.png" alt="c" width="100" height="100">](<https://www.credly.com/badges/85f0005a-a98e-442c-a263-87cd408b8512/public_url>) [<img src="Badges/redhat/red-hat-certified-engineer-rhce.png" alt="c" width="100" height="100">](<https://www.credly.com/badges/f7f95940-39bd-4f86-a88e-68e86bb5f609/public_url>)
-
-
 
 
 [<img src="Badges/redhat/red-hat-certified-specialist-in-containers.png" alt="c" width="100" height="100">](<https://www.credly.com/badges/d987cb53-05fa-4c1b-ad86-c61b71cc2232/public_url>) [<img src="Badges/redhat/red-hat-certified-openshift-administrator.png" alt="c" width="100" height="100">](<https://www.credly.com/badges/e1ce46b1-e476-4299-8b46-831d7b86682a/public_url>) [<img src="Badges/redhat/red-hat-certified-specialist-in-virtualization.png" alt="c" width="100" height="100">](<https://www.credly.com/badges/3832abec-363b-448d-a132-a4775fe73050/public_url>) [<img src="Badges/redhat/red-hat-certified-specialist-in-cloud-infrastructure.png" alt="c" width="100" height="100">](<https://www.credly.com/badges/872e74c4-9894-43d8-a87c-58e406c5d5ea/public_url>) 
