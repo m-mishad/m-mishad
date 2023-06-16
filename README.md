@@ -1,6 +1,15 @@
 # Muzahedul Haque's Profile: 
 #### IT & cloud computing professional with more than ten years of experience. Expert in platform planning & deployment, cloud computing, telecommunication signaling trace analysis, cybersecurity, etc.
 
+- [CV](https://github.com/m-mishad/m-mishad/blob/f4f29de7e7e2ab3b3c3789acaeac5fc9e7fe4eba/CV_Md%20Muzahedul%20Haque.pdf)
+- [Certification profile](https://www.credly.com/users/md-muzahedul-haque/badges)
+- [LinkedIn profile](https://www.linkedin.com/in/mishad211/)
+
+
+
+
+
+
 ### Badges:
 
 [<img src="Badges/AWS/aws-certified-cloud-practitioner.png" alt="c" width="80" height="80">](<https://www.credly.com/badges/c0cbb2b4-4bc2-4570-9819-1828c4b09909/public_url>) [<img src="Badges/AWS/aws-certified-solutions-architect-associate.png" alt="c" width="80" height="80">](<https://www.credly.com/badges/fd780507-d666-42fa-a1a9-ba8bad32e946/public_url>) [<img src="Badges/AWS/aws-certified-developer-associate.png" alt="c" width="80" height="80">](<https://www.credly.com/badges/bbe60397-dbe5-449c-bcd2-3865783b084f/public_url>) [<img src="Badges/AWS/aws-certified-sysops-administrator-associate.png" alt="c" width="80" height="80">](<https://www.credly.com/badges/03c80cd4-4084-4d01-b47c-d145513b403f/public_url>) [<img src="Badges/AWS/aws-certified-security-specialty.png" alt="c" width="80" height="80">](<https://www.credly.com/badges/f9bae39a-17af-4d35-b5bb-259f4a1c3a89/public_url>) [<img src="Badges/AWS/migration-ambassador-foundations-business-2022.png" alt="c" width="80" height="80">](<https://www.credly.com/badges/cd213548-c5f5-408f-896c-c0f4ca5adf79/public_url>)
@@ -25,9 +34,7 @@
 
 
 
-- [CV](https://github.com/m-mishad/m-mishad/blob/f4f29de7e7e2ab3b3c3789acaeac5fc9e7fe4eba/CV_Md%20Muzahedul%20Haque.pdf)
-- [Certification profile](https://www.credly.com/users/md-muzahedul-haque/badges)
-- [LinkedIn profile](https://www.linkedin.com/in/mishad211/)
+
 
 
 
