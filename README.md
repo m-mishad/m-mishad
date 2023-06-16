@@ -1,5 +1,12 @@
 # Muzahedul Haque's Profile ###
 
+####IT & cloud computing professional with more than ten years of experience. Expert in platform planning & deployment, cloud computing, telecommunication signaling trace analysis, cybersecurity, etc.
+
+
+
+
+
+
 - [CV](https://github.com/m-mishad/m-mishad/blob/f4f29de7e7e2ab3b3c3789acaeac5fc9e7fe4eba/CV_Md%20Muzahedul%20Haque.pdf)
 - [Certifications](https://www.credly.com/users/md-muzahedul-haque/badges)
 - [LinkedIn](https://www.linkedin.com/in/mishad211/)
