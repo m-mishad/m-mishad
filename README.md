@@ -2,7 +2,7 @@
 
 - [CV](https://github.com/m-mishad/m-mishad/blob/f4f29de7e7e2ab3b3c3789acaeac5fc9e7fe4eba/CV_Md%20Muzahedul%20Haque.pdf)
 - [Certification profile](https://www.credly.com/users/md-muzahedul-haque/badges)
--  My experiences: [https://www.linkedin.com/in/mishad211/](https://www.linkedin.com/in/mishad211/)
+- [LinkedIn](https://www.linkedin.com/in/mishad211/)
 
 
 
