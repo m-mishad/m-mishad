@@ -1,8 +1,8 @@
 # Muzahedul Haque's Profile 
 #### IT & cloud computing professional with more than ten years of experience. Expert in platform planning & deployment, cloud computing, telecommunication signaling trace analysis, cybersecurity, etc.
 
-#### Badges
-AWS
+### Badges
+#### AWS
 
 
 [<img src="Badges/AWS/aws-certified-cloud-practitioner.png" alt="c" width="100" height="100">](<https://www.credly.com/badges/c0cbb2b4-4bc2-4570-9819-1828c4b09909/public_url>)
