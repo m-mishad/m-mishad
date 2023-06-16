@@ -69,6 +69,6 @@
 
 
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCp1weR6ZnOXGAH-EoLvnuHA?style=social)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCp1weR6ZnOXGAH-EoLvnuHA?style=social) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCp1weR6ZnOXGAH-EoLvnuHA?style=social)
 
 
