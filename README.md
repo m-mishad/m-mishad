@@ -1,6 +1,6 @@
 ### Muzahedul Haque's Profile ###
 
-- CV: [#CV_Md Muzahedul Haque.pdf](https://github.com/m-mishad/m-mishad/blob/f4f29de7e7e2ab3b3c3789acaeac5fc9e7fe4eba/CV_Md%20Muzahedul%20Haque.pdf)
+- [CV:](https://github.com/m-mishad/m-mishad/blob/f4f29de7e7e2ab3b3c3789acaeac5fc9e7fe4eba/CV_Md%20Muzahedul%20Haque.pdf)
 -  My experiences: [https://www.linkedin.com/in/mishad211/](https://www.linkedin.com/in/mishad211/)
 -  My certifications profile: [https://www.credly.com/users/md-muzahedul-haque/badges](https://www.credly.com/users/md-muzahedul-haque/badges)
 
