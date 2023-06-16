@@ -63,7 +63,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-mishad&show_icons=true&locale=en&layout=compact" alt="m-mishad" width="120" height="120" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-mishad&show_icons=true&locale=en&layout=compact" alt="m-mishad" width="140" height="140" /></p>
 
 
 
