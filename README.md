@@ -11,7 +11,6 @@
 - [LinkedIn](https://www.linkedin.com/in/mishad211/)
 
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c0cbb2b4-4bc2-4570-9819-1828c4b09909" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 
 <h3 align="left">Technical Skills:</h3>
