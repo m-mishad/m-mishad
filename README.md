@@ -21,12 +21,6 @@
 
 ---
 
-
-
-
-
----
-
 <div align="center">
 
 ## [Badges](https://www.credly.com/users/md-muzahedul-haque/badges)
