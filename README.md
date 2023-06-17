@@ -1,31 +1,30 @@
 ![](https://komarev.com/ghpvc/?username=m-mishad&color=green&style=flat-square) 
 
-<div align="center">
+
  
 # [Muzahedul Haque's Profile](https://github.com/m-mishad)
-  
-</div>
+
 
 [![CV](https://img.shields.io/badge/My-CV-blue?style=flat-square&logo=cv)](https://github.com/m-mishad/m-mishad/blob/f4f29de7e7e2ab3b3c3789acaeac5fc9e7fe4eba/CV_Md%20Muzahedul%20Haque.pdf) [![LinkedIn profile](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mishad211/) [![Certification profile](https://img.shields.io/badge/Certification-Profile-blue?style=flat-square&logo=credly)](https://www.credly.com/users/md-muzahedul-haque/badges) [![Linux Foundation profile](https://img.shields.io/badge/Linux%20Foundation-Profile-blue?logo=linux)](https://openprofile.dev/profile/m.mishad)
 
 #### IT & cloud computing professional with more than ten years of experience. Expert in platform planning & deployment, cloud computing, telecommunication signaling trace analysis, cybersecurity, etc.
 
 ---
-<div align="center">
+
   
 ## [Technical Skills](https://github.com/m-mishad)
  
-</div>
+
 
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="icons/AWS-Dark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="icons/Docker.svg" alt="docker" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="icons/Kubernetes.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.redhat.com/en/technologies/cloud-computing/openshift" target="_blank" rel="noreferrer"> <img src="icons/OpenShift.svg" alt="openshift" width="40" height="40"/> </a> <a href="https://www.openstack.org/" target="_blank" rel="noreferrer"> <img src="icons/OpenStack-Dark.svg" alt="openstack" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="icons/Linux-Dark.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="icons/Bash-Dark.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="icons/C.svg" alt="c" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="icons/Flask-Dark.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="icons/Git.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="icons/Jenkins-Dark.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="icons/Python-Dark.svg" alt="python" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="icons/VSCode-Dark.svg" alt="vscode" width="40" height="40"/> </a></p>
 
 ---
 
-<div align="center">
+
 
 ## [Badges](https://www.credly.com/users/md-muzahedul-haque/badges)
 
-</div>
+
  
 [<img src="Badges/AWS/aws-certified-cloud-practitioner.png" alt="c" width="80" height="80">](<https://www.credly.com/badges/c0cbb2b4-4bc2-4570-9819-1828c4b09909/public_url>) [<img src="Badges/AWS/aws-certified-solutions-architect-associate.png" alt="c" width="80" height="80">](<https://www.credly.com/badges/fd780507-d666-42fa-a1a9-ba8bad32e946/public_url>) [<img src="Badges/AWS/aws-certified-developer-associate.png" alt="c" width="80" height="80">](<https://www.credly.com/badges/bbe60397-dbe5-449c-bcd2-3865783b084f/public_url>) [<img src="Badges/AWS/aws-certified-sysops-administrator-associate.png" alt="c" width="80" height="80">](<https://www.credly.com/badges/03c80cd4-4084-4d01-b47c-d145513b403f/public_url>) [<img src="Badges/AWS/aws-certified-security-specialty.png" alt="c" width="80" height="80">](<https://www.credly.com/badges/f9bae39a-17af-4d35-b5bb-259f4a1c3a89/public_url>) [<img src="Badges/AWS/migration-ambassador-foundations-business-2022.png" alt="c" width="80" height="80">](<https://www.credly.com/badges/cd213548-c5f5-408f-896c-c0f4ca5adf79/public_url>)
 
