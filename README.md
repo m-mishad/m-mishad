@@ -23,7 +23,7 @@
 - [CV](https://github.com/m-mishad/m-mishad/blob/f4f29de7e7e2ab3b3c3789acaeac5fc9e7fe4eba/CV_Md%20Muzahedul%20Haque.pdf)
 - [Certification profile](https://www.credly.com/users/md-muzahedul-haque/badges)
 - [![LinkedIn profile](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mishad211/)
-- [![Linux Foundation profile](https://img.shields.io/badge/Linux%20Foundation-Profile-blue&logo=linux)](https://openprofile.dev/profile/m.mishad)
+- [![Linux Foundation profile](https://img.shields.io/badge/Linux%20Foundation-Profile-blue?logo=linux)](https://openprofile.dev/profile/m.mishad)
 
 
 ---
