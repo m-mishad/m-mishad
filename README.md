@@ -1,7 +1,9 @@
 <div align="center">
  
 # [Muzahedul Haque's Profile](https://github.com/m-mishad)
-
+ 
+<a href="https://www.linkedin.com/in/mishad211"> <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" alt="LinkedIn Profile Badge" /> </a>
+ 
 </div>
 
 ![](https://komarev.com/ghpvc/?username=m-mishad&color=green&style=flat-square)
@@ -70,6 +72,6 @@
 ---
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCp1weR6ZnOXGAH-EoLvnuHA?style=social) 
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCp1weR6ZnOXGAH-EoLvnuHA?style=social) <a href="https://www.linkedin.com/in/mishad211"> <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" alt="LinkedIn Profile Badge" /> </a>
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCp1weR6ZnOXGAH-EoLvnuHA?style=social) 
 
 
