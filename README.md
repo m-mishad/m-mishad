@@ -62,9 +62,7 @@
 </p>
 
 
-<a href="https://www.linkedin.com/in/mishad211">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" alt="LinkedIn Profile Badge" />
-</a>
+
 
 
 
@@ -72,6 +70,6 @@
 ---
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCp1weR6ZnOXGAH-EoLvnuHA?style=social) 
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCp1weR6ZnOXGAH-EoLvnuHA?style=social)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCp1weR6ZnOXGAH-EoLvnuHA?style=social) <a href="https://www.linkedin.com/in/mishad211"> <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" alt="LinkedIn Profile Badge" /> </a>
 
 
