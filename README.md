@@ -50,9 +50,8 @@
 
 ## [Achievements](https://www.bkash.com/)
 
-Certificate of achivements.PDF
 
-[<img src="Certificate of achivements.PDF" alt="c" width="100" height="100">](<https://www.bkash.com/>)
+[<img src="Certificate-of-achivements.PDF" alt="c" width="100" height="100">](<https://www.bkash.com/>)
 
 ---
 
