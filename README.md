@@ -50,9 +50,11 @@
 
 ## [Achievements](https://www.bkash.com/)
 
-[<img src=" Certificate-of-achivements.png" alt="c" width="400" height="330" >](https://github.com/m-mishad/m-mishad/blob/main/Certificate-of-achivements.png)
+[<img src="Certificate-of-achivements.png" alt="c" width="400" height="330" >](https://github.com/m-mishad/m-mishad/blob/main/Certificate-of-achivements.png)
  
- 
+ ## [Trannings Attended](https://www.novotel-bd.com/)
+
+[<img src="Certificate-of-attendance-novotel.png" alt="c" width="400" height="330" >](https://github.com/m-mishad/m-mishad/blob/main/Certificate-of-attendance-novotel.png)
 
 
  
