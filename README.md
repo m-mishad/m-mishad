@@ -50,7 +50,7 @@
 
 ## [Achievements](https://www.bkash.com/)
 
-[<img src=" Certificate-of-achivements.png" alt="c" >](https://www.bkash.com/)
+[<img src=" Certificate-of-achivements.png" alt="c" width="300" height="230" >](https://www.bkash.com/)
  
  
 
