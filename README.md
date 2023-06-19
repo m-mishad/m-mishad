@@ -50,9 +50,9 @@
 
 ## [Achievements](https://www.bkash.com/)
 
+<iframe width="100%" height="800" src="Certificate-of-achivements.PDF">
 
-[<img src="Certificate-of-achivements.PDF" alt="c" width="100" height="100">](<https://www.bkash.com/>)
-
+ 
 ---
 
 <h3 align="left">Connect with me:</h3>
