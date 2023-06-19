@@ -50,7 +50,7 @@
 
 ## [Achievements](https://www.bkash.com/)
 
-[<img src=" Certificate-of-achivements.png" alt="c" width="300" height="230" >](https://github.com/m-mishad/m-mishad/blob/main/Certificate-of-achivements.png)
+[<img src=" Certificate-of-achivements.png" alt="c" width="400" height="330" >](https://github.com/m-mishad/m-mishad/blob/main/Certificate-of-achivements.png)
  
  
 
