@@ -69,9 +69,6 @@
 
 
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="mishad211" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fi.linkedin.com/in/mishad211?trk=profile-badge">Muzahedul Haque</a></div>
-
-
 
 
 
