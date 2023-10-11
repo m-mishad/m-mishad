@@ -59,7 +59,7 @@
 
 [<img src="Certificate-of-attendance-novotel.png" alt="c" width="400" height="330" >](https://github.com/m-mishad/m-mishad/blob/main/Certificate-of-attendance-novotel.png)
 
-
+[<img src="dCCA.png" alt="c" width="400" height="330" >](https://github.com/m-mishad/m-mishad/blob/main/dCCA.png)
  
 ---
 
