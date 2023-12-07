@@ -32,7 +32,7 @@
 
 
 
-[<img src="Badges/Kubernetes/cka-certified-kubernetes-administrator.png" alt="c" width="100" height="100">](<https://www.credly.com/badges/66714d76-9fbd-4eac-b6d6-f514e87e4387/public_url>) [<img src="Badges/Kubernetes/cka-certified-kubernetes-administrator.png" alt="c" width="100" height="100">](<https://www.credly.com/badges/250ebc97-36ba-42f5-bea1-2544df4fa424/public_url>) [<img src="Badges/Kubernetes/cks-certified-kubernetes-security-specialist.png" alt="c" width="100" height="100">](<https://www.credly.com/badges/5ff229ec-56f5-4bfd-8418-811452bc8444/public_url>) 
+[<img src="Badges/Kubernetes/cka-certified-kubernetes-administrator.png" alt="c" width="100" height="100">](<https://www.credly.com/badges/66714d76-9fbd-4eac-b6d6-f514e87e4387/public_url>) [<img src="Badges/Kubernetes/ckad-certified-kubernetes-application-developer.png" alt="c" width="100" height="100">](<https://www.credly.com/badges/250ebc97-36ba-42f5-bea1-2544df4fa424/public_url>) [<img src="Badges/Kubernetes/cks-certified-kubernetes-security-specialist.png" alt="c" width="100" height="100">](<https://www.credly.com/badges/5ff229ec-56f5-4bfd-8418-811452bc8444/public_url>) 
 
 [<img src="Badges/HashiCorp/hashicorp-certified-terraform-associate-002.png" alt="c" width="100" height="100">](<https://www.credly.com/badges/41c7f681-4129-4da3-ad27-d65ec4dedfb9/public_url>) [<img src="Badges/HashiCorp/terraform-certified-hashicorp-implementation-partner-chip.png" alt="c" width="100" height="100">](<https://www.credly.com/badges/0dbc30ea-d239-4e04-a380-e37536613b79/public_url>) 
 
